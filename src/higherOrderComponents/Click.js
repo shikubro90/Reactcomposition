@@ -7,7 +7,7 @@ const Click = (props)=>{
 
     return (
         <div>
-        <button type = "button" onClick={increment}>Clicked { count } times</button>
+            <button type = "button" onClick={increment}>Clicked { count } times</button>
         </div>
     )
 }
