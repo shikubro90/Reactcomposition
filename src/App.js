@@ -10,7 +10,6 @@ function App() {
     //   {({addEmoji})=> <Text addEmoji={addEmoji} />} 
     // </Emoji>
 
-
     <div>
       
       <Click/>
