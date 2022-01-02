@@ -2,6 +2,7 @@
 // import Text from './component/Text';
 import './App.css';
 import Click from './higherOrderComponents/Click';
+import Hover from './component/Hover';
 
 function App() {
   return (
@@ -10,7 +11,13 @@ function App() {
     // </Emoji>
 
 
-    <Click/>
+    <div>
+      
+      <Click/>
+      <Hover/>
+
+
+    </div>
 
 
   );
