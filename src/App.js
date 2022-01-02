@@ -2,7 +2,7 @@
 // import Text from './component/Text';
 import './App.css';
 import Click from './higherOrderComponents/Click';
-import Hover from './component/Hover';
+// import Hover from './component/Hover';
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
     <div>
       
       <Click/>
-      <Hover/>
+      {/* <Hover/> */}
 
 
     </div>
